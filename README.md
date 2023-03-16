@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-YOUR DESCRIPTION
+Export user-chosen layers to GDSII in L-Edit
 
 ### Built With
 
