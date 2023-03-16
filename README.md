@@ -1,4 +1,4 @@
-# TITLE
+# exportLayer2GDSII
 
 <!-- PROJECT LOGO -->
 <p align="center">
@@ -46,21 +46,28 @@ YOUR DESCRIPTION
 * [Python](https://www.python.org/)
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-### Installation
 
 INSTALL_STEP
 
 #### SECTION 1
-YOUR INSTRUCTIONS
+# Open "exportLayer2GDSII.py.tcl" in a text editor e.g. notepad
+# Set the path for the Python script here: (Example: set pyScriptLoc {F:\exportLayer2GDSII.py})
+# 
+  	
+# set pyScriptLoc {<PATH HERE>}
+
+# Execute the script ("exportLayer2GDSII.py.tcl") in L-Edit
+# Note: the TCL file must be loaded with every new session, to avoid doing
+# so manually, please refer to L-Edit's documentation to decided the
+# most suitable way to load the script automatically as there are plenty  
 
 ### Usage
 
-USAGE NOTES
+# 1. Have a design and a cell open
+# 2. Once the path to the script is set and the TCL is loaded, use the button "Export_layer_2_GDSII" in your toolbar
 
 ### Notes:
-This script was tested on: YOUR SETUP
+N/A
 <br>
 
 <!-- ROADMAP -->
